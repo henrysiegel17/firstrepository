@@ -1,3 +1,3 @@
 import math
 
-print(math.pow(10,3))
+print(math.pow(10,4))
